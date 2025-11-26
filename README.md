@@ -20,8 +20,8 @@
 
 ### 📊 Data Analysis & Visualization
 
-* **[Sales Performance Dashboard](YOUR_SALES_DASHBOARD_LINK_HERE)**
-    * Built an end-to-end analytics workflow using **🟦 Microsoft Excel** and data modeling to identify revenue trends, top products, and performance gaps.
+* **[Honey Enterprise Sales Dashboard Analysis](https://github.com/OYINKANSOLAOJUGBELE/Honey-Enterprise-Sales-data)**
+    * Built an end-to-end analytics workflow using **🟦 Microsoft Excel** and data modeling to identify revenue trends, top products, and performance gaps in enterprise sales data.
     
 * **[Maji Ndogo Water Access and Quality Analysis](https://github.com/OYINKANSOLAOJUGBELE/maji-ndogo-sql-project)**
      SQL project exploring water access and quality, including data cleaning, transformation, and derivation of key social and technical insights.
