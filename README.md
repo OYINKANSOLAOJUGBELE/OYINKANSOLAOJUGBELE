@@ -7,7 +7,6 @@ I'm a passionate Data Analyst based in Lagos, Nigeria, specializing in transform
 ### 🔍 About Me
 
 - 🎯 **Current Focus:** Seeking Data Analyst opportunities (full-time or internship)
-- 💼 **Experience:** 7+ years working with data across different industries
 - 📈 **Track Record:** Improved reporting accuracy by 30% and reduced manual processing by 25-30%
 - 🌱 **Currently Learning:** Advanced SQL techniques and Python for data analysis
 - 💡 **Passion:** Using data to solve real business problems and drive growth
